@@ -26,4 +26,12 @@ Este proyecto demuestra como se comportan 3 algoritmos de optimización para el 
 
 └── README.md # Este archivo
 
-**Instalación:** pip install -r requirements.txt
+## Tecnologías utilizadas
+- Python 3.10+
+- OR-Tools (optimización de rutas)
+- NumPy, SciPy (regresiones, intervalos de confianza)
+- Pandas (manejo de datos)
+- Matplotlib (gráficos)
+
+##  Instalación:
+pip install -r requirements.txt
